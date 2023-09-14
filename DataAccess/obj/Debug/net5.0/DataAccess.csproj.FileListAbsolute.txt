@@ -1,0 +1,16 @@
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net5.0\BusinessObjects.dll
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net5.0\BusinessObjects.pdb
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\FU_Hub\FA23\PRN231\Lab\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
